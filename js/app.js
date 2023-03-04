@@ -1,0 +1,1 @@
+let game1 = new Game;
